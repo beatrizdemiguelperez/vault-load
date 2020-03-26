@@ -1,0 +1,22 @@
+{
+  "name": "vault-load",
+  "version": "1.0.0",
+  "description": "Script to read vault secrets",
+  "bin": {
+    "vault_load": "bin/vault_load.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delps1001/vault-load.git"
+  },
+  "keywords": [
+    "vault",
+    "read"
+  ],
+  "author": "Dalton DelPiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delps1001/vault-load/issues"
+  },
+  "homepage": "https://github.com/delps1001/vault-load#readme"
+}
