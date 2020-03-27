@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 set -e
 while getopts ":e:s:a:" opt; do
   case ${opt} in
