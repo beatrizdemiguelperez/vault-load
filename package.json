@@ -1,6 +1,6 @@
 {
   "name": "vault-load",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Script to read vault secrets",
   "bin": {
     "vault_load": "bin/vault_load.sh"
